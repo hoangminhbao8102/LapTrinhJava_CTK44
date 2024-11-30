@@ -48,7 +48,7 @@ public class Lab2 {
                         bank.addCustomer(customer);
                         System.out.println("Them khach hang thanh cong!");
                     } catch (Exception e) {
-                        System.out.println("Lỗi: " + e.getMessage());
+                        System.out.println("Loi: " + e.getMessage());
                     }
                 }
                 case 2 -> {
