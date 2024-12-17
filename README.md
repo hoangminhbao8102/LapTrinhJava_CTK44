@@ -20,4 +20,4 @@
 
 <strong>Link GitHub:</strong> <a href="https://github.com/hoangminhbao8102/LapTrinhJava-CTK44" target="_blank">https://github.com/hoangminhbao8102/LapTrinhJava-CTK44</a>
 
-<h1 style="color:red;">SẮP HOÀN THÀNH</h1>
+<h1 style="color:red;">ĐÃ HOÀN THÀNH</h1>
